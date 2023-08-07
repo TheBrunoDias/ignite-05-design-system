@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@thebrunodias-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,10 +13,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@thebrunodias-ignite-ui/eslint-config": "*",
+    "@thebrunodias-ignite-ui/react": "*",
+    "@thebrunodias-ignite-ui/tokens": "*",
+    "@thebrunodias-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.2.1",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

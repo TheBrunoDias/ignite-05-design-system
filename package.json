@@ -7,7 +7,7 @@
     "dev": "turbo run dev --parallel",
     "build": "turbo run build",
     "changeset": "changeset",
-    "version-packages": "changeset verion",
+    "version-packages": "changeset version",
     "release": "turbo run build --filter=!docs && changeset publish"
   },
   "devDependencies": {
